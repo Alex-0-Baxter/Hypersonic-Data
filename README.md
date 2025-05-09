@@ -10,6 +10,6 @@ Physics I projects
 ![Image](Simulated_Sphere_Height_Over_Time.png)
 # Cone Test
 ![Image](ConeDemoTrial2COL.png)
-![Image](Simulated_Cone_Height_Over_Time.png)
+![Image](Simulated_Cone_Height _Over_Time.png)
 
 
